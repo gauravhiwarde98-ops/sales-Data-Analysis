@@ -1,0 +1,15 @@
+Order_ID,Date,Product,Category,Quantity,Price,Sales,City
+101,2026-01-01,Laptop,Electronics,2,45000,90000,Pune
+102,2026-01-02,Mobile,Electronics,3,15000,45000,Mumbai
+103,2026-01-03,Chair,Furniture,5,2000,10000,Hyderabad
+104,2026-01-04,Table,Furniture,2,5000,10000,Pune
+105,2026-01-05,Headphones,Electronics,4,1500,6000,Mumbai
+106,2026-01-06,Keyboard,Accessories,5,800,4000,Hyderabad
+107,2026-01-07,Mouse,Accessories,6,500,3000,Pune
+108,2026-01-08,Laptop,Electronics,1,45000,45000,Mumbai
+109,2026-01-09,Mobile,Electronics,2,15000,30000,Pune
+110,2026-01-10,Chair,Furniture,3,2000,6000,Hyderabad
+111,2026-02-01,Laptop,Electronics,1,45000,45000,Pune
+112,2026-02-05,Mobile,Electronics,2,15000,30000,Mumbai
+113,2026-03-02,Chair,Furniture,4,2000,8000,Pune
+114,2026-03-10,Keyboard,Accessories,3,800,2400,Hyderabad
